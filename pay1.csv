@@ -1,0 +1,6 @@
+step,type,amount,oldbalanceOrg,newbalanceOrg,oldbalanceDest,newbalanceDest,is fraud
+1,1,9839.64,170136,160296.36,0,0,0
+1,1,1864.28,21249,19348.72,0,0,0
+1,2,181,181,0,0,0,1
+1,3,181,181,0,21182,0,1
+1,1,11668.14,415554,29885.86,0,0,0
